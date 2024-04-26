@@ -1,4 +1,4 @@
-name: Release
+name: Alfa-release
 
 on: workflow_dispatch
 
@@ -20,6 +20,11 @@ jobs:
 
       - name: Install Dependencies
         run: npm i
+
+      - name: Git Config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Create Alfa version
         id: changesets
