@@ -1,5 +1,11 @@
 # my-package
 
+## 2.0.1
+
+### Patch Changes
+
+- f0ea90b: 123
+
 ## 2.0.0
 
 ### Major Changes
