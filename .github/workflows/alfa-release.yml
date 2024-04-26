@@ -1,7 +1,7 @@
 name: Alfa-release
 
 on: workflow_dispatch
-
+#Add branch check
 jobs:
   alfarelease:
     name: Alfa release
@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18.x
+          registry-url: "https://registry.npmjs.org"
 
       - name: Install Dependencies
         run: npm i
