@@ -1,7 +1,7 @@
 name: Alfa-release
 
 on: workflow_dispatch
-#Add branch check
+
 jobs:
   alfarelease:
     name: Alfa release
@@ -12,6 +12,12 @@ jobs:
         with:
           # This makes Actions fetch all Git history so that Changesets can generate changelogs with the correct commits
           fetch-depth: 0
+
+      - name: Fail if branch is not main
+        if: github.event_name == 'workflow_dispatch' && github.ref != 'refs/heads/main'
+        run: |
+          echo "This workflow should not be triggered with workflow_dispatch on a branch other than main"
+          exit 1
 
       - name: Setup Node.js 18
         uses: actions/setup-node@v3
