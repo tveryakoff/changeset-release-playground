@@ -1,4 +1,4 @@
-# my-package
+# changeset-release-playground-two
 
 ## 1.1.0
 
@@ -9,9 +9,3 @@
 ### Patch Changes
 
 - 0e3087a: sdfsdf
-
-## 1.1.0
-
-### Minor Changes
-
-- 6e65932: minor bump my-package
