@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "private": true,
   "workspaces": ["packages/my-package", "packages/yet_another_package"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
