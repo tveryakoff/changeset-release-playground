@@ -1,5 +1,11 @@
 # changeset-release-playground-two
 
+## 2.0.0-alfa.0
+
+### Major Changes
+
+- d3bf6ad: changes-2
+
 ## 1.1.0
 
 ### Minor Changes
