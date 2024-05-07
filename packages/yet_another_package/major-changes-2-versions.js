@@ -1,1 +1,1 @@
-console.log('major-package-2')
+console.log('major-package-2!')
