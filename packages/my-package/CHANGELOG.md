@@ -1,5 +1,15 @@
 # my-package
 
+## 4.0.0-alfa.0
+
+### Major Changes
+
+- 030d2a8: major changeset
+
+### Minor Changes
+
+- f77b677: new
+
 ## 3.0.0
 
 ### Major Changes

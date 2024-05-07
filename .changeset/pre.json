@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "alfa",
+  "initialVersions": {
+    "changeset-release-playground-one": "3.0.0",
+    "changeset-release-playground-two": "3.0.0"
+  },
+  "changesets": [
+    "cuddly-clocks-behave",
+    "cuddly-gifts-watch"
+  ]
+}
