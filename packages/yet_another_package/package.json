@@ -1,6 +1,6 @@
 {
   "name": "changeset-release-playground-two",
-  "version": "4.0.0-alfa.0",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
