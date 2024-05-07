@@ -6,6 +6,7 @@
     "changeset-release-playground-two": "2.0.1-alfa.0"
   },
   "changesets": [
-    "rude-glasses-mate"
+    "rude-glasses-mate",
+    "smooth-jokes-guess"
   ]
 }
