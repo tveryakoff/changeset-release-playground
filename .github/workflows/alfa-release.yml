@@ -61,6 +61,7 @@ jobs:
       - name: Close Pull
         run: | 
           gh pr close changeset-release/main --comment "Auto-closing pull request after an alfa-release" --delete-branch
+          git fetch origin
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
