@@ -1,5 +1,14 @@
 # changeset-release-playground-two
 
+## 4.0.0-alfa.1
+
+### Major Changes
+
+- 204c3d0: 8 major, update workflow to trigger release
+- eb97541: 6 version
+- c15b9d9: 5 version
+- 4a59d0e: 9 version, new workflow
+
 ## 4.0.0-alfa.0
 
 ### Major Changes
