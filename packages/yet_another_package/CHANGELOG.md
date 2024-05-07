@@ -1,5 +1,11 @@
 # changeset-release-playground-two
 
+## 4.0.0
+
+### Major Changes
+
+- 89bbdf3: major after alfa 4
+
 ## 3.0.0
 
 ### Major Changes
