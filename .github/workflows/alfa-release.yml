@@ -61,14 +61,13 @@ jobs:
       - name: Close Pull
         run: | 
           gh pr close changeset-release/main --comment "Auto-closing pull request after an alfa-release" --delete-branch
-          git fetch origin
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+      - name: Update Repo
+        run: |
+          git fetch origin
+          git pull
 
       - name: Create Release Pull Request or Publish to npm
         id: changesets-recreate
