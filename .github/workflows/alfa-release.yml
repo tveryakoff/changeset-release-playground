@@ -58,27 +58,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Close Pull
+      - name: Close Next Release PR
         run: | 
           gh pr close changeset-release/main --comment "Auto-closing pull request after an alfa-release" --delete-branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-#      - name: Update Repo
-#        run: |
-#          git fetch origin
-#          git pull
-#
-#      - name: Create Release Pull Request or Publish to npm
-#        id: changesets-recreate
-#        uses: changesets/action@v1
-#        with:
-#          publish: npx changeset publish
-#          title: release
-#          commit: Version release
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-
-
+      - name: Recreate Next release PR
+        run: gh workflow run release.yml
