@@ -1,8 +1,8 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
-    "changeset-release-playground-one": "3.0.0",
+    "changeset-release-playground-one": "4.0.0-alfa.0",
     "changeset-release-playground-two": "3.0.0"
   },
   "changesets": [
