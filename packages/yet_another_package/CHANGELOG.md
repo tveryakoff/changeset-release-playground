@@ -1,5 +1,12 @@
 # changeset-release-playground-two
 
+## 3.0.0-alfa.3
+
+### Major Changes
+
+- eca81b7: 5
+- d714eec: 6
+
 ## 3.0.0-alfa.2
 
 ### Major Changes

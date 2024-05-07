@@ -1,13 +1,15 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
     "changeset-release-playground-one": "2.0.1-alfa.0",
-    "changeset-release-playground-two": "3.0.0-alfa.1"
+    "changeset-release-playground-two": "3.0.0-alfa.2"
   },
   "changesets": [
     "bright-ears-breathe",
+    "old-buckets-approve",
     "rude-glasses-mate",
-    "smooth-jokes-guess"
+    "smooth-jokes-guess",
+    "wicked-mugs-clap"
   ]
 }

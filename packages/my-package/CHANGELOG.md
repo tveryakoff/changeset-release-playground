@@ -1,5 +1,11 @@
 # my-package
 
+## 3.0.0-alfa.1
+
+### Major Changes
+
+- d714eec: 6
+
 ## 2.0.1-alfa.0
 
 ### Patch Changes
