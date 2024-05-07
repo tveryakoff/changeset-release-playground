@@ -1,9 +1,9 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
-    "changeset-release-playground-one": "2.0.0",
-    "changeset-release-playground-two": "2.0.0"
+    "changeset-release-playground-one": "2.0.1-alfa.0",
+    "changeset-release-playground-two": "2.0.1-alfa.0"
   },
   "changesets": [
     "rude-glasses-mate"
