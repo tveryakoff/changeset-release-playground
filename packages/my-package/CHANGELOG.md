@@ -1,5 +1,11 @@
 # my-package
 
+## 5.0.0
+
+### Major Changes
+
+- 35624f9: 5 after alfa
+
 ## 5.0.0-alfa.0
 
 ### Major Changes
