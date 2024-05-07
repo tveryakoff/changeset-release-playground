@@ -1,5 +1,11 @@
 # changeset-release-playground-two
 
+## 2.0.1-alfa.0
+
+### Patch Changes
+
+- f0ea90b: 123
+
 ## 2.0.0
 
 ### Major Changes
