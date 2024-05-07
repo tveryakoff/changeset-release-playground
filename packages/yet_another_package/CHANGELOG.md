@@ -1,5 +1,11 @@
 # changeset-release-playground-two
 
+## 3.0.0-alfa.1
+
+### Major Changes
+
+- 3d8dc32: version3 package1
+
 ## 2.0.1-alfa.0
 
 ### Patch Changes
