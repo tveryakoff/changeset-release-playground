@@ -59,7 +59,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Release Pull Request or Publish to npm
-        id: changesets
+        id: changesets-recreate
         uses: changesets/action@v1
         with:
           publish: npx changeset publish
