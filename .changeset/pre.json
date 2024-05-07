@@ -1,15 +1,17 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
-    "changeset-release-playground-one": "4.0.0-alfa.0",
-    "changeset-release-playground-two": "3.0.0"
+    "changeset-release-playground-one": "4.0.0-alfa.1",
+    "changeset-release-playground-two": "4.0.0-alfa.0"
   },
   "changesets": [
     "cuddly-clocks-behave",
     "cuddly-gifts-watch",
+    "loud-ways-admire",
     "popular-steaks-accept",
     "purple-clouds-sneeze",
+    "ten-doors-grin",
     "tiny-pens-warn"
   ]
 }
