@@ -1,5 +1,5 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
     "changeset-release-playground-one": "4.0.0-alfa.0",
@@ -7,6 +7,9 @@
   },
   "changesets": [
     "cuddly-clocks-behave",
-    "cuddly-gifts-watch"
+    "cuddly-gifts-watch",
+    "popular-steaks-accept",
+    "purple-clouds-sneeze",
+    "tiny-pens-warn"
   ]
 }
