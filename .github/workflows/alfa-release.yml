@@ -66,3 +66,5 @@ jobs:
 
       - name: Recreate Next release PR
         run: gh workflow run release.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
