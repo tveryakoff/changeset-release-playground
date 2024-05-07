@@ -1,5 +1,15 @@
 # my-package
 
+## 3.0.0
+
+### Major Changes
+
+- d714eec: 6
+
+### Patch Changes
+
+- f0ea90b: 123
+
 ## 2.0.1-alfa.0
 
 ### Patch Changes
