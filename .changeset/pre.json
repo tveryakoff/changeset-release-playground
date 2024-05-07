@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "alfa",
+  "initialVersions": {
+    "changeset-release-playground-one": "4.0.0",
+    "changeset-release-playground-two": "4.0.0"
+  },
+  "changesets": [
+    "spicy-wolves-lie"
+  ]
+}
