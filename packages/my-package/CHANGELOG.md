@@ -1,5 +1,11 @@
 # my-package
 
+## 4.0.0-alfa.1
+
+### Major Changes
+
+- 89bbdf3: major after alfa 4
+
 ## 4.0.0-alfa.0
 
 ### Major Changes
