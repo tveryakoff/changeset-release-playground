@@ -43,7 +43,7 @@ jobs:
       - name: Alfa release publish
         id: alfa-release-publish
         run: | 
-          npx changeset publish
+          npm publish
           git push --follow-tags
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
