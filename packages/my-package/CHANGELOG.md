@@ -1,5 +1,12 @@
 # my-package
 
+## 6.0.0
+
+### Major Changes
+
+- 0689fad: new major
+- dc0e0e8: major7
+
 ## 6.0.0-alfa.1
 
 ### Major Changes
