@@ -1,5 +1,11 @@
 # my-package
 
+## 6.0.0
+
+### Major Changes
+
+- 0689fad: new major
+
 ## 5.0.0
 
 ### Major Changes
