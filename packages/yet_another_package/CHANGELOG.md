@@ -1,5 +1,11 @@
 # changeset-release-playground-two
 
+## 6.0.0-alfa.1
+
+### Major Changes
+
+- dc0e0e8: major7
+
 ## 6.0.0-alfa.0
 
 ### Major Changes

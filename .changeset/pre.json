@@ -1,12 +1,13 @@
 {
-  "mode": "exit",
+  "mode": "pre",
   "tag": "alfa",
   "initialVersions": {
-    "changeset-release-playground-one": "5.0.0",
-    "changeset-release-playground-two": "5.0.0"
+    "changeset-release-playground-one": "6.0.0-alfa.0",
+    "changeset-release-playground-two": "6.0.0-alfa.0"
   },
   "changesets": [
     "soft-planes-tie",
+    "thin-wolves-love",
     "wise-terms-destroy"
   ]
 }
