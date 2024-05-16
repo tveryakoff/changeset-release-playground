@@ -1,5 +1,5 @@
 {
-  "mode": "pre",
+  "mode": "exit",
   "tag": "alfa",
   "initialVersions": {
     "changeset-release-playground-one": "6.0.0-alfa.0",
