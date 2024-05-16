@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "alfa",
+  "initialVersions": {
+    "changeset-release-playground-one": "5.0.0",
+    "changeset-release-playground-two": "5.0.0"
+  },
+  "changesets": [
+    "soft-planes-tie",
+    "wise-terms-destroy"
+  ]
+}

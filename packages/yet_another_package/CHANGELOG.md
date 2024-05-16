@@ -1,5 +1,12 @@
 # changeset-release-playground-two
 
+## 6.0.0-alfa.0
+
+### Major Changes
+
+- 0689fad: new major
+- 90b92ee: try new command
+
 ## 5.0.0
 
 ### Major Changes
